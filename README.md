@@ -1,10 +1,10 @@
 # Guerilla
 
 ## Summary and goal
-As a real-life application of skills, our assignment for this Webdevelopment course was to take an existing page and improve it. The goal is to make a one-pager, within about 8 hours, for an existing business.
+As a real-life application of skills, our assignment for this web development course was to take an existing page and improve it. The goal is to make a one-pager, within about 8 hours, for an existing business. The main requirement was that the business would be in dire need of a revamped website, or a website at all.
 
 ### Template
-I used a template for the main motion of a scrolling, white rectangular content on background images. This template came from HTML5up.
+I used a template for the main theme of scrolling, white rectangular content on background images. This template came from HTML5up.
 
 ### Menu
 Adding a full menu would be messy, so I opted to take the headings and list those as their specialties
