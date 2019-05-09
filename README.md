@@ -19,3 +19,7 @@ There is very little to no on-line presence, so I removed most of the links to o
 All contact info is found here, phone number, email and address.
 
 #### Takeout
+Added the takeout section
+
+#### Images
+All images used are license free and from Unsplash. 
