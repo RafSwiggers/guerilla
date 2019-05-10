@@ -26,3 +26,5 @@ All images used are license free and from Unsplash. Ideally, there would be prof
 
 
 ### [You can find the result here!](https://rafswiggers.github.io/guerilla/)
+
+### [This links back to the presentation](https://docs.google.com/presentation/d/16d8eXnU4g7zMww0F64sCqRp4c4MpkPafP0LXblsViy0/edit?usp=sharing)
